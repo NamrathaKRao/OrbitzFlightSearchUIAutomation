@@ -1,0 +1,46 @@
+{
+  "TS1": [
+    {
+       "browser": "chrome",
+       "url": "https://www.orbitz.com/",
+       "leaving_from": "San Francisco",
+       "going_to": "New York",
+       "time_zone":"America/Los_Angeles",
+       "departure_no_days_fromnow":14,
+       "return_no_days_fromnow": 28
+         },
+    {
+       "browser": "firefox",
+       "url": "https://www.orbitz.com/",
+       "leaving_from": "San Francisco",
+       "going_to": "New York",
+       "time_zone":"America/Los_Angeles",
+       "departure_no_days_fromnow":14,
+       "return_no_days_fromnow": 28
+         }
+    ],
+  "TS2": [
+    {
+        "browser": "chrome",
+       "url": "https://www.orbitz.com/",
+       "leaving_from": "San Francisco",
+       "going_to": "New York",
+       "time_zone":"America/Los_Angeles",
+       "departure_no_days_fromnow":14,
+       "return_no_days_fromnow": 28,
+       "sort_option_flight1": "Price (Highest)",
+       "sort_option_flight2":"Price (Highest)"
+  },
+    {
+       "browser": "firefox",
+       "url": "https://www.orbitz.com/",
+       "leaving_from": "San Francisco",
+       "going_to": "New York",
+       "time_zone":"America/Los_Angeles",
+       "departure_no_days_fromnow":14,
+       "return_no_days_fromnow": 28,
+       "sort_option_flight1": "Price (Highest)",
+       "sort_option_flight2":"Price (Highest)"
+  }
+    ]
+}
