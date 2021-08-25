@@ -1,4 +1,4 @@
-The tests directory has a test file with two test cases :
+The tests directory has a test file with two test cases:
 
  1.Verifying the search result in Chrome and Firefox browsers.
  2. Verifying all flight details and Prices in Chrome and Firefox browsers.
