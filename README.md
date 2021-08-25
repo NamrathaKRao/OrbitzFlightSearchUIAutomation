@@ -6,7 +6,7 @@ The tests directory has a test file with two test cases:
 
 Steps to Run the test:
 1. git clone https://github.com/NamrathaKRao/OrbitzFlightSearchUIAutomation.git
-2. Within the OrbitzFlightSearchUIAutomation directory run: pip3 freeze > requirements.txt
+2. Within the OrbitzFlightSearchUIAutomation directory run: pip3 install -r requirements.txt
 3. Running Tests:
     1.To run tests in parallel : pytest -s -v tests/ -n 2 --html=report.html
     2. To run tests one by one: pytest -s -v tests/ --html=report.html
